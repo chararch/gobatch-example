@@ -1,6 +1,6 @@
 # GoBatch Examples
 
-English | [中文](README.zh.md)
+English | [中文](README_zh.md)
 
 This repository contains example code for the GoBatch processing framework.
 
@@ -9,18 +9,18 @@ This repository contains example code for the GoBatch processing framework.
 ### 1. [Quick Start Example](quickstart)
 - Shows how to create and run simple steps
 - Includes basic job configuration and execution flow
-- Location: \`examples/quickstart\`
+- Location: [examples/quickstart](quickstart)
 
 ### 2. [Simple Job Example](basic)
 - Shows a basic gobatch example
 - Includes simple step and chunk processing
-- Location: \`examples/basic\`
+- Location: [examples/basic](basic)
 
 ### 3. [File Processing Example](file_usage)
 - CSV file reading and writing
 - Automatic field mapping
 - File validation
-- Location: \`examples/file\`
+- Location: [examples/file](file_usage)
 
 
 ## Documentation

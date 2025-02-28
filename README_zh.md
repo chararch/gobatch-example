@@ -9,18 +9,18 @@
 ### 1. [快速入门示例](quickstart)
 - 展示如何创建和运行简单步骤
 - 包含基本的任务配置和执行流程
-- 位置：\`examples/quickstart\`
+- 位置：[examples/quickstart](quickstart)
 
 ### 2. [基础任务示例](basic)
 - 展示基础的 gobatch 使用方法
 - 包含简单步骤和分块处理
-- 位置：\`examples/basic\`
+- 位置：[examples/basic](basic)
 
 ### 3. [文件处理示例](file_usage)
 - CSV 文件读写
 - 自动字段映射
 - 文件校验
-- 位置：\`examples/file\`
+- 位置：[examples/file](file_usage)
 
 
 ## 文档
